@@ -51,7 +51,7 @@ int main(int argc, char** argv){
 	Tela[1] = new TCanvas("Varianza", "Varianza", 1500, 600);
 	
 	// = new TCanvas("Verifica del teorema del limite centrale",
-																//"Verifica del teorema del limite centrale");
+	//"Verifica del teorema del limite centrale");
 	
 	Tela[0]->SetTitle("Distribuzione delle somme parziali");
 	Tela[0]->cd();			   // Entro nella tela
